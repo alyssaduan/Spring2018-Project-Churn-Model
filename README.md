@@ -1,6 +1,7 @@
 # Spring2018-Project-Churn-Model
 
 In this project, we use 11 factors to predict whether a customer will churn to another company. 
+
 Data Description:
 
 Each row represents a customer of the network, with the parameters for each customer described below.
