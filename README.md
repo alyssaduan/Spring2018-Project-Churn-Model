@@ -5,7 +5,8 @@ Data Description:
 
 Each row represents a customer of the network, with the parameters for each customer described below.
 
-       The data consists of 20,000 customers, split into 90% (18,000) for training data and the remaining 10% (2,000) as test data (holdout).
+       The data consists of 20,000 customers, split into 90% (18,000) for training data
+       The remaining 10% (2,000) as test data (holdout).
 
 Find the labeled training data in 'train.csv' and unlabeled test data in 'test.csv'.
 
