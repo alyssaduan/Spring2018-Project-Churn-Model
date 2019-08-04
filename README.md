@@ -30,17 +30,19 @@ Step1: Deal with Data (Both train and test data)
 
        1) Catogorize Data by Using Catagory Numbers
        2) Use corr() to calculate correlation between LEAVE
-       3) Separate data by their features and then hstack
-       4) Use StandardScaler to normalized Data
+       3) Separate data by their correlation, types, and specializations, and then hstack
+       4) Use StandardScaler to normalized data
        
 Step2: Fit Model with Logistic Regression
 
-       Use 1 degree feartures => Accurancy: 0.637
-       Use polynomial features => Accurancy: 0.652
-       Use 3 degree features => Accurancy: 0.673
-       Increase degree to increase training data accurancy => Overfit
+       Use 1 degree feartures => Accuracy: 0.637
+       Use polynomial features => Accuracy: 0.652
+       Use 3 degree features => Accuracy: 0.673
+       Increase degree to increase training data accuracy => Overfit
        
-Step3: Fit Model with SVM => Accurancy: 0.698
+Step3: Fit Model with SVM 
+	 
+	 => Accuracy: 0.698
 
 
 
