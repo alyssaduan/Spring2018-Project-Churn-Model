@@ -1,4 +1,4 @@
-# Spring2018-Project-Churn-Model
+# Spring2018-Project-ChurnModel
 
 In this project, we use 11 factors to predict whether a customer will churn to another company. 
 
