@@ -1,5 +1,7 @@
 # Spring2018-Project-ChurnModel
 
+This repository contains python codes for the SUNY-Buffalo Data Science final project.
+
 In this project, we use 11 factors to predict whether a customer will churn to another company. 
 
 Data Description:
